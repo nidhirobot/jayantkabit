@@ -1,0 +1,7 @@
+pyrogram
+pytz
+tgcrypto
+requests
+python-telegram-bot==12.8
+pyromod
+sqlalchemy==1.3.20
