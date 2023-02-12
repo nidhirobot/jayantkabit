@@ -2,6 +2,6 @@ pyrogram
 pytz
 tgcrypto
 requests
-python-telegram-bot==12.8
+python-telegram-bot
 pyromod
 sqlalchemy==1.3.20
